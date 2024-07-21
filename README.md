@@ -1,6 +1,6 @@
-# GoshGPT - Smart AI Assistant for Web3 Developers to build on Gosh Blockchain and It's Ecosystem 🤖
+# GoshGPT - For Gosh Developers and Community 🤖
 
-**➡️ This project is a submission to the Gosh Labs Hackathon 👨‍💻**
+**➡️ This project is a submission to the Gosh UnderWorld Computer Hackathon 👨‍💻**
 
 <br>
 <p style="text-align: center" align="center">
