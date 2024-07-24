@@ -45,8 +45,8 @@ const GoshGPTPopup = () => {
                   fontSize: 16,
                   poweredByTextColor: "#000000",
                   botMessage: {
-                    backgroundColor: "#000000",
-                    textColor: "#ffffff",
+                    backgroundColor: "#f7f8ff",
+                    textColor: "#000000",
                     showAvatar: true,
                     avatarSrc:
                       "https://raw.githubusercontent.com/AsharibAli/project-images/main/gosh-logo.webp",
