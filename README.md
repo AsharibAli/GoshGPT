@@ -25,6 +25,7 @@ Developers want to build on Gosh but lack an interactive way to quickly and easi
 
 ## Features
 
+➡️ One time Name & Email require to access the Application. <br>
 🎯 Personalized answers for community & developers. <br>
 🕒 Real-time updates from Internet. <br>
 👨‍💻 Chat via CUI (Conversational User Interface). <br>
