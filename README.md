@@ -15,7 +15,7 @@
 
 GoshGPT assists developers in building dapps on the Gosh Blockchain using the smart contract development, and Community to understand and get benefits from the Gosh Products through a conversational UI, powered by **OpenAI Assistants, GPT-4o model, and the latest tech-stack.** <br>
 
-It helps developers code, fix, and test their smart contracts to build web3 applications on Gosh. Simply enter a prompt in the UI to get accurate answers. Specially designed for the Gosh community of developers and ecosystem products, GoshGPT was developed by Asharib Ali as a submission for the **"Coinstore Labs - Gosh Blockchain Ecosystem Hackathon 2024"** <br>
+It helps developers code, fix, and test their smart contracts to build web3 applications on Gosh. Simply enter a prompt in the UI to get accurate answers. Specially designed for the Gosh community of developers and ecosystem products, GoshGPT was developed by Asharib Ali as a submission for the **"Gosh Blockchain Ecosystem Hackathon 2024"** <br>
 
 **GoshGPT** offers many great features to help developers & community to build, ship, and earn quickly on **Gosh Blockchain.** <br>
 
